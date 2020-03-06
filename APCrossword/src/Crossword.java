@@ -34,7 +34,7 @@ public class Crossword
    */
   private boolean toBeLabeled (int r, int c, boolean[][] blackSquares)
   { 
-    /* to be implemented in part (b) */
+    /* to be implemented in part (a) */
     return false;
   }
   
